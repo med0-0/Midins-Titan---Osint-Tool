@@ -41,6 +41,6 @@ python app.py
 (Or launch.bat for windows)
 
 ### ⚖️ Legal Disclaimer
-TITAN is intended for research, investigative journalism, and cybersecurity purposes only. The developers assume no liability for misuse or illegal activities. Users must comply with local and international laws regarding data privacy, stalking, and public record access. All analysis involving specific individuals should respect the presumption of innocence.addadadadaaa
+TITAN is intended for research, investigative journalism, and cybersecurity purposes only. The developers assume no liability for misuse or illegal activities. Users must comply with local and international laws regarding data privacy, stalking, and public record access. All analysis involving specific individuals should respect the presumption of innocence.
 
 © 2026 MIDINS Systems - Titan Intelligence Project.
