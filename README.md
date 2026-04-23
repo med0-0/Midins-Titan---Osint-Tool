@@ -1,4 +1,4 @@
-# 🔱 TITAN | Advanced OSINT & Network Intelligence Framework
+# 🔱 Midins TITAN | Advanced OSINT & Network Intelligence Framework
 
 ![Status](https://img.shields.io/badge/Status-Operational-brightgreen)
 ![Version](https://img.shields.io/badge/Version-3.0.5-blue)
